@@ -12,6 +12,10 @@ Run migrations
 
     $  python manage.py migrate
 
+Run tests
+
+    $  python manage.py test
+
 Start development server
 
     $ python manage.py runserver
