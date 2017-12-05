@@ -4,7 +4,7 @@ Teammanager: CRUD api for managing team
 Setup
 ------------
 
-Install requiremens
+Install requirements
 
     $ sudo pip install -r requirements.txt
 
